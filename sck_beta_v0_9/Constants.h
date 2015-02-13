@@ -223,14 +223,8 @@ static char* WEB[8]={
                   "X-SmartCitizenVersion: ",  
                   "X-SmartCitizenData: "};
                   
- /*static char* WEBTS[2]={
-                  "api.thingspeak.com",
-                  "FNVDEU1UB7YRWEEJ"}; */
- 
  static char* WEBTS[2]={
-                   //"192.168.88.119", //TCPMon
                    "84.88.85.11",		//TSGuifiNet
-                   //"JA1SBQKH0T2SNB9U"}; //TS Channel 11704
                    "RX8HGPW4WCIGYHQS "};     //CH13  
  
   
