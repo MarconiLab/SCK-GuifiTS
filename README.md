@@ -96,6 +96,9 @@ and modify the lines you see below (line 226):
 static char* WEBTS[2]={
                    "10.95.0.25",		        //with the address of TS
                    "RX8HGPW4WCIGYHQS "};    //Channel Api key  
+                   
+ Also choose refresh rate in seconds (line 88) ex, 60 refresh data every minute, minimum refresh rate is 15 seconds
+ #define DEFAULT_TIME_UPDATE  60     //Time between update and update
 
 #### STEP 5: Downloading firmwatre to SCK
 Now you are ready to download the file to SCK board!
