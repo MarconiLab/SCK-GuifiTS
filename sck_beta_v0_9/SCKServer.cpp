@@ -1,6 +1,7 @@
 /*
 
   SCKServer.cpp
+  Author: Rodrigo Carbajales MarconiLab
   
 */
 
