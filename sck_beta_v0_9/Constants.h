@@ -2,6 +2,8 @@
 
   Constants.h
   Defines ATMEGA32U4 pins and other SENSORS and COMUNICATIONS static parameters.
+  
+  Author: Rodrigo Carbajales MarconiLab
 
 */
 
